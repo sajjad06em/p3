@@ -1,0 +1,141 @@
+/* Large devise */
+
+@media (min-width:901px) and (max-width:1200px) {
+    header{
+        background-color:rgb(43, 43, 148);
+    }
+ /* section  part is here */
+    header{
+        background-color: rgb(201, 198, 37);
+    }
+    .container{
+        max-width: 1140px;
+        
+    }
+    .hero-container{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-items: start;
+    }
+    .hero-img{
+        flex-basis: 500px;
+        
+    }
+    
+    .hero-writing{
+        text-align: start;
+        flex-basis: 500px;
+        
+    }
+    .hero-writing h1{
+        font-size: 85px;
+        line-height: 100px;
+    }
+    
+    .hero-writing a button{
+        margin-top: 30px;
+        background-color: rgb(64, 170, 219);
+    }
+
+    /* section 2 part is here */
+
+
+.container2{
+    
+    max-width: 1140px;
+ 
+    
+}
+.hero-container2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero2-img2{
+    flex-basis: 500px;
+
+}
+
+.hero-writing2{
+    text-align: center;
+    flex-basis: 500px;
+}
+.hero-writing2 h1{
+    font-size: 85px;
+    line-height: 100px;
+}
+.hero-writing2 a button{
+    margin-top: 30px;
+    
+} 
+
+/* section 3 part is here */
+
+.hero-writing3{
+    text-align: center;
+    flex-flow: 400px;
+}
+.hero-writing3 h1{
+    font-size: 70px;
+    line-height: 100px;
+}
+
+.hero-writing2 a button{
+    margin-top: 30px;
+}        
+
+.container3{
+    width: 70%;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+}
+.hero-container2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: start;
+}
+.hero2-img2{
+    flex-basis: 500px;
+    list-style: none;
+}
+
+/* section 4 part is here */
+
+.container4{
+    max-width: 1140px;
+    
+}
+.hero-container4{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: start;
+}
+.hero4-img4{
+    flex-basis: 500px;
+    
+}
+
+.hero-writing4{
+    text-align: start;
+    flex-basis: 500px;
+    
+}
+.hero-writing4 h1{
+    font-size: 85px;
+    line-height: 100px;
+}
+
+.hero-writing4 a button{
+    margin-top: 30px;
+    background-color: rgb(64, 170, 219);
+}
+
